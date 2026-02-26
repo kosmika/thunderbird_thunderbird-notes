@@ -19,7 +19,7 @@ notes:
   - note: Enable exporting selected address book cards
     tag: new
     bugs: [20304]
-  - note: Starred messages now persist across devices
+  - note: Starred EWS messages now persist across devices
     tag: new
     bugs: [1995405]
 
