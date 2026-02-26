@@ -23,6 +23,9 @@ notes:
   - note: NTLM is exposed as an available authentication method for EWS accounts
     tag: new
     bugs: [1998428]
+  - note: Implemented option to show only messages without any tag
+    tag: new
+    bugs: [683809]
 
   # Changed
   - note: Read folders are now removed from Unread Folders view
